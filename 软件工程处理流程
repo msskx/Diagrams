@@ -1,1 +1,62 @@
-<mxfile host="app.diagrams.net" modified="2022-04-10T08:10:30.402Z" agent="5.0 (Windows)" version="17.4.1" etag="J6jLnSkIUF7hK7bJU0w3" type="github"><diagram id="Shay76PhVjS2JeBZ0bh2">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-04-10T08:46:15.585Z" agent="5.0 (Windows)" etag="8GFucnymbveNsKJ6ky8C" version="17.4.1" type="github">
+  <diagram id="Shay76PhVjS2JeBZ0bh2" name="Page-1">
+    <mxGraphModel dx="1742" dy="576" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="QXYCyggGysWm49ZiD9KX-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QXYCyggGysWm49ZiD9KX-1" target="QXYCyggGysWm49ZiD9KX-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QXYCyggGysWm49ZiD9KX-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QXYCyggGysWm49ZiD9KX-1" target="QXYCyggGysWm49ZiD9KX-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QXYCyggGysWm49ZiD9KX-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QXYCyggGysWm49ZiD9KX-1" target="QXYCyggGysWm49ZiD9KX-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="240" as="targetPoint" />
+            <mxPoint x="380" y="200" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="380" y="210" />
+              <mxPoint x="210" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QXYCyggGysWm49ZiD9KX-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QXYCyggGysWm49ZiD9KX-1" target="QXYCyggGysWm49ZiD9KX-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="530" y="240" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="380" y="210" />
+              <mxPoint x="550" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QXYCyggGysWm49ZiD9KX-1" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QXYCyggGysWm49ZiD9KX-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QXYCyggGysWm49ZiD9KX-4" target="QXYCyggGysWm49ZiD9KX-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QXYCyggGysWm49ZiD9KX-4" value="查询当日污染数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QXYCyggGysWm49ZiD9KX-9" value="查询历史污染数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QXYCyggGysWm49ZiD9KX-10" value="预测未来污染数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QXYCyggGysWm49ZiD9KX-11" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QXYCyggGysWm49ZiD9KX-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QXYCyggGysWm49ZiD9KX-12" target="QXYCyggGysWm49ZiD9KX-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QXYCyggGysWm49ZiD9KX-12" value="模型预测" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QXYCyggGysWm49ZiD9KX-15" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
